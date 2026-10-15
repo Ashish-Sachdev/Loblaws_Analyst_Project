@@ -1,0 +1,11 @@
+{
+  "start_fiscal_year": 2022,
+  "end_fiscal_year": 2025,
+  "period_type": "annual",
+  "currency": "CAD",
+  "monetary_unit": "millions",
+  "raw_dir": "data/raw",
+  "interim_dir": "data/interim",
+  "processed_dir": "data/processed",
+  "database_path": "data/loblaw.duckdb"
+}
